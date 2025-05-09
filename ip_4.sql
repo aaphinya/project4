@@ -1,3 +1,4 @@
+-- เพราะโหลดมาจาก ฐานข้อมูลเดิม มีข้อมูลแล้วเพราะผ่านเทสมา
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
